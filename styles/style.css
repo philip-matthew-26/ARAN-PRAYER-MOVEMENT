@@ -300,5 +300,6 @@ footer .footer-social ul li a img {
   .adivisors-section {
     flex-direction: column;
     align-items: center;
+    padding: 2rem;
   }
 }
